@@ -1,2 +1,2 @@
 # Dispatch Group
-An example for dispatch groups.
+An example for dispatch groups, in a playground.
